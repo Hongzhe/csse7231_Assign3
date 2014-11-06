@@ -2,7 +2,7 @@ csse7231_Assign3
 ================
 
 This is assignment3 of UQ course csse7231. 
-Basically, this is game inspried by a borad game named 'Love Letter'. This assignmnet requires student to write a 
+Basically, this is a game inspired by a board game named 'Love Letter'. This assignmnet requires student to write a 
 multi-process program. The parent process is the game hub which host the game. For each player, we fork a child process 
 for them.
 
